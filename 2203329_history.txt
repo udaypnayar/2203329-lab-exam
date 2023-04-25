@@ -1,0 +1,374 @@
+ls -la
+ssh-keygen -t RSA
+cd .ssh
+ls -la
+cat id_rsa.pub 
+cd ..
+git clone
+git clone git@github.com:udaypnayar/cs102-git-essentials.git
+logout
+grep 'clone' .bash_history
+ls -al -type d
+ls -al directory
+who
+write 2203133
+EOF
+who
+git remote
+ls -al
+cd cs102-git-essentials
+git remote
+git remote -v
+git remote add Game git@github.com:udaypnayar/fuzzy-tribble.git
+git remote
+git remote -v
+ls -al fuzzy*
+ls -al *fuzzy*
+ls -al
+cd
+ls -al
+git remote get-url origin
+cd cs102-git-essentials
+git remote get-url origin
+git remote get-url Game
+ls -al
+git remote get-url Game --push
+git remote get-url --push
+git remote get-url --push origin
+git remote get-url --push Game
+git remote get-url --all Game
+git remote get-url --fetch origin
+git remote
+git remote -v
+git branch
+ls
+nano README.md
+git status
+git pull origin main
+git status
+git add README.md
+git pull origin main
+git push origin main
+git pull origin main
+git add README.md
+git push --help
+git pull origin main
+git push origin main
+git fetch origin main
+git status
+git pull origin main
+nano README.md
+git push origin main
+git status
+git push --help
+git status
+git reset HEAD README.md
+git status
+git pull origin main
+git commit -m "The tenth commit?"
+git status
+git add README.md
+git commit -m "The tenth commit?"
+git pull origin main
+git push origin main
+git status
+git add README.md
+git status
+git pull origin main
+git commit -m "The eleventh commit?"
+git pull origin main
+git push origin main
+nano README.md
+git pull origin main
+nano README.md
+git log
+git revert 1e27c38d5e909985ea2f0a0aa0fe544a2af33ec3
+git log
+cat README.md
+git reset 1e27c38d5e909985ea2f0a0aa0fe544a2af33ec3
+git log
+nano README.md
+git status
+ls
+cat cs102-lecture-notes.txt
+cat README.md
+git status
+git log
+git status
+git rm cs-102-imp.tsxt
+git rm cs-102-imp.txt
+git status
+cat README.md
+cat cs102-lecture-notes.txt
+git add -a
+git add --a
+git commit -m "SCAM"
+git push origin main
+git pull origin main
+ls -al
+git push origin main
+git pull origin main
+cat README.md
+git pull origin main
+git status
+nano README.md
+git add README.md
+git commit -m
+git commit -m "Yo"
+git push origin main
+git pull origin main
+nano README.md
+git status
+git add --a
+git push origin main
+git pull origin main
+git status
+git commit -m "Yo again"
+git push origin main
+grep 'reset' .bash_history
+grep 'revert' .bash_history
+logout
+git remote
+cd cs102-git-essentials
+git remote
+git remote -v
+logout
+git remote get-url Game
+cd cs102-git-essentials
+git remote get-url Game
+git remote get-url origin
+git remote get-url Game --push
+git remote get-url Game --all
+git remote get-url origin --push
+git remote get-url origin --all
+git status
+nano README.md
+git status
+git add --a
+git status
+git commit -m "Yet another commit"
+git push origin main
+git fetch origin main
+nano README.md
+git status
+git cs102*
+nano cs102*
+git status
+git commit -a
+git status
+git pull origin main
+nano cs102*
+git status
+nano README.md
+git commit -a
+git status
+git push origin main
+grep 'revert' .bash_history
+grep 'revert' ../.bash_history
+cd
+grep 'revert' .bash_history
+grep 'reset' .bash_history
+git log
+cd cs102-git-essentials
+git log
+git revert 8ea3e7130a638e67a843e09824ae65e6a5f5bbbd
+git status
+git log --list
+grep 'log' ../.bash_history
+git log --oneline --decorate --graph --all
+git status
+git rm cs102*
+git status
+cat cs102*
+cat cs102-lecture-notes.txt
+ls 
+git pull origin main
+cat cs102-lecture-notes.txt
+grep 'get-url' -iw ../.bash_history
+git remote get-url origin
+git remote get-url Game --push
+grep 'clone' ../.bash_history
+git status
+grep 'git commit' .bash_history
+grep 'git add' .bash_history
+git status
+cd cs102*
+mkdir DELETE_ME
+git status
+git rm cs102-lecture-notes.txt
+git reset HEAD -- cs102-lecture-notes.txt
+git status
+git revert --abort
+git status
+git pull origin main
+git status
+git commit -a
+git status
+git pull origin main
+git status
+git push origin main
+ls
+git status
+mv README.md ./DELETE_ME
+git status
+logout
+git clone git@github.com:udaypnayar/CS102_Lab_Practice.git
+ls -al
+cd CS102_Lab_Practice
+ls -a
+cat README.md
+vim README.md
+git status
+git rm --cached README.md
+ls -a
+git status
+git add --a
+git status
+git commit -m "A markdown commit"
+git push -u origin main
+vim README.md
+git add .
+git commit -a
+git status
+git push -u origin main
+git branch --show-current
+git rev-parse --abbrev-ref HEAD
+ls
+vim README.md
+git commit -a -m "Try this out, please"
+git push origin main
+vim README.md
+git commit -a -m "Try this out, please"
+git status
+git push origin main
+vim README.md
+git commit -a -m "Trying again 24thApr"
+git status
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-2"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-3"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-4"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-5"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-6"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-7"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-7"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-7"
+git commit --amend
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-9"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-10"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-11"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-12"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-12"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-12"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-13"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-nul"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-14"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-15"
+git push -u origin main
+vim README.md
+git commit -a -m "Trying again 24thApr-16"
+git push -u origin main
+git log --oneline --decorate --graph --all
+git revert 8c11006
+git log --oneline --decorate --graph --all
+git status
+git push origin main
+vim README.md
+git reset 8c11006
+git status
+vim README.md
+git add .
+git commit -a && git push origin main
+git pull origin main
+git status
+git log --oneline --decorate --graph --all
+vim README.md
+git push origin main
+cat README.md
+git reset 07a4d97
+git status
+cat README.md
+git reset  091ec13
+git status
+cat README.md
+git pull origin main
+cat README.md
+git status
+git log --oneline --decorate --graph --all
+git reset 091ec13
+git status
+cat README.md
+git reset 0b8ce3a
+cat README.md
+git pull
+git pull origin main
+git status
+git add .
+git pull origin main
+git status
+ls -a
+mkdir 2203329-lab-exam
+cd 2203329-lab-exam
+git init
+ls -a
+cd
+rm 2203329-lab-exam
+rmdir 2203329-lab-exam
+rm -r 2203329-lab-exam
+ls -a
+git clone git@github.com:udaypnayar/2203329-lab-exam.git
+ls -a
+cd 2203329-lab-exam 
+ls -a
+cat > README.md
+ls -a
+cd
+git clone git@github.com:tusharlone/cs102-git-essentials.git
+git clone git@github.com:tusharlone/cs102-git-essentials.git CS102_Git_Essentials
+ls -a
+cd CS102_Git_Essentials
+ls -a
+cp ca_500.csv us_500.csv ~/2203329-lab-exam
+cd ~/2203329-lab-exam
+ls -a
+wc -l | ca_500.csv
+cat ca_500.csv | wc -l
+cat ca_500.csv | head -n5
+grep -w "Montreal" ca_500.csv | less
+for file in *.csv; do  echo $file; done
+for file in *.csv; do cat >> ca_city_Montreal.csv; For $file, we have:
